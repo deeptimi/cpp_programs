@@ -11,3 +11,5 @@ int main()
   cout<<"Hello World , This is Deepti Mishra"<<endl;
   return 0;
 }
+
+// So , basically the program will always start with header files and then I have used the using namespace std part cause if not then I'll have to write - std::cout for output and input purpose.
