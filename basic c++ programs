@@ -1,1 +1,13 @@
 
+Alright, so I am using this repository for my revision purpose.
+I have started studying cpp from my secondary school.
+This portion will contain the basic cpp programs.
+
+include<iostream>
+using namespace std;
+
+int main()
+{
+  cout<<"Hello World , This is Deepti Mishra"<<endl;
+  return 0;
+}
