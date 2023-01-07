@@ -6,3 +6,4 @@ To learn any programming language , you need to learn few things which are must 
 - History of the language 
 - Features
 - Basic program & Tokens of the program
+- Advanced and deep topics by implementing parallely
